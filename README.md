@@ -11,7 +11,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-pc5y-p-medved-multyashnii-png-5.png" width="400" height="280" />
+<img align="right" alt="GIF" src="[https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-pc5y-p-medved-multyashnii-png-5.png](https://camo.githubusercontent.com/47eb8cd8e5ba3e4eb1714a4e691be4b86683e843c66deff97a65524aaba9f385/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635368682d325f5433734e4352506e565a48384f5268374861726b3467746a734c493058412673)" width="400" height="280" />
   
 **Languages and Tools:**  
 
