@@ -11,7 +11,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-pc5y-p-medved-multyashnii-png-5.png" width="400" height="280" />
+<img align="right" alt="GIF" src="https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-pc5y-p-medved-multyashnii-png-5.gif" width="400" height="280" />
   
 **Languages and Tools:**  
 
